@@ -187,4 +187,3 @@ public final class MainUserBot {
         return sender.equals(ADMIN_ID);
     }
 }
-//Test for commit
